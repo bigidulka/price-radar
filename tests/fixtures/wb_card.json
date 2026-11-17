@@ -1,0 +1,15 @@
+{
+  "products": [
+    {
+      "id": 233123425,
+      "name": "Фильтр масляный W 712/95",
+      "brand": "MANN-FILTER",
+      "supplier": "АвтоДеталь+",
+      "sizes": [
+        {"name": "", "price": {"basic": 129000, "product": 87400, "total": 87400}, "stocks": [{"wh": 507, "qty": 12}]},
+        {"name": "x2", "price": {"basic": 199000, "product": 165000, "total": 165000}, "stocks": []}
+      ],
+      "totalQuantity": 12
+    }
+  ]
+}
